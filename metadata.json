@@ -1,0 +1,7 @@
+{
+  "name": "Copy of 12thFailJobs Architecture & Roadmap",
+  "description": "An interactive flowchart and project architecture visualizer for the 12thfailjobs.com platform, focused on blue-collar job seeker and employer workflows.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
